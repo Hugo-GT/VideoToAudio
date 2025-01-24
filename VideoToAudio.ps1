@@ -1,1 +1,1 @@
-python E:\dev\python\VideoToAudioQuick\Program.py
+python .\Program.py
